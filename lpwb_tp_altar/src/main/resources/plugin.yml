@@ -1,0 +1,12 @@
+name: tp_altar
+main: com.angaronigiovanni.lpwb_tp_altar.Plugin
+version: "1.1"
+api-version: 1.15
+
+commands:
+  edit:
+    description: Used to edit the name of an altar
+    usage: /edit
+  listAltarInfo:
+    description: Used to list the database of altars
+    usage: /listAltarInfo
